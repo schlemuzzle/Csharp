@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\bin\Debug\net6.0\Ex_001HelloConsole.exe
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\bin\Debug\net6.0\Ex_001HelloConsole.deps.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\bin\Debug\net6.0\Ex_001HelloConsole.runtimeconfig.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\bin\Debug\net6.0\Ex_001HelloConsole.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\bin\Debug\net6.0\Ex_001HelloConsole.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\refint\Ex_001HelloConsole.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\Ex_001HelloConsole.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\Less_01\Ex_001HelloConsole\obj\Debug\net6.0\ref\Ex_001HelloConsole.dll
