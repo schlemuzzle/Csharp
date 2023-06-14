@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\bin\Debug\net6.0\Ex_03IsDayWeekend.exe
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\bin\Debug\net6.0\Ex_03IsDayWeekend.deps.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\bin\Debug\net6.0\Ex_03IsDayWeekend.runtimeconfig.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\bin\Debug\net6.0\Ex_03IsDayWeekend.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\bin\Debug\net6.0\Ex_03IsDayWeekend.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\refint\Ex_03IsDayWeekend.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\Ex_03IsDayWeekend.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_03IsDayWeekend\obj\Debug\net6.0\ref\Ex_03IsDayWeekend.dll

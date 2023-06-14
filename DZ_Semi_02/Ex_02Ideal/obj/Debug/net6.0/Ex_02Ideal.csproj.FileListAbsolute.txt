@@ -1,0 +1,5 @@
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_02Ideal\obj\Debug\net6.0\Ex_02Ideal.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_02Ideal\obj\Debug\net6.0\Ex_02Ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_02Ideal\obj\Debug\net6.0\Ex_02Ideal.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_02Ideal\obj\Debug\net6.0\Ex_02Ideal.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_02\Ex_02Ideal\obj\Debug\net6.0\Ex_02Ideal.csproj.CoreCompileInputs.cache
