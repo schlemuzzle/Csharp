@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\bin\Debug\net6.0\Ex_03Cube1toN.exe
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\bin\Debug\net6.0\Ex_03Cube1toN.deps.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\bin\Debug\net6.0\Ex_03Cube1toN.runtimeconfig.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\bin\Debug\net6.0\Ex_03Cube1toN.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\bin\Debug\net6.0\Ex_03Cube1toN.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\refint\Ex_03Cube1toN.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\Ex_03Cube1toN.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_03Cube1toN\obj\Debug\net6.0\ref\Ex_03Cube1toN.dll

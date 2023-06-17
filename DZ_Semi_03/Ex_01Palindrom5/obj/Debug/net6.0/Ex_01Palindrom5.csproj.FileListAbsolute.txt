@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\bin\Debug\net6.0\Ex_01Palindrom5.exe
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\bin\Debug\net6.0\Ex_01Palindrom5.deps.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\bin\Debug\net6.0\Ex_01Palindrom5.runtimeconfig.json
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\bin\Debug\net6.0\Ex_01Palindrom5.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\bin\Debug\net6.0\Ex_01Palindrom5.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\refint\Ex_01Palindrom5.dll
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.pdb
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\Ex_01Palindrom5.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ZsYP\Csharp\DZ_Semi_03\Ex_01Palindrom5\obj\Debug\net6.0\ref\Ex_01Palindrom5.dll
