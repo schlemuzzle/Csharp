@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 Console.Write("Введите номер дня недели (от 1 до 7): ");
-int numDay = int.Parse(Console.ReadLine()); 
+int numDay = int.Parse(Console.ReadLine()!); 
 Console.Write("Выбранный день: ");
 if(numDay == 1) Console.Write("Понедельник");
 else if (numDay == 2) Console.Write("Вторник");

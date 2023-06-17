@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 Console.Write("Введите номер дня недели: ");
-int numberDayOfWeek = int.Parse(Console.ReadLine());
+int numberDayOfWeek = int.Parse(Console.ReadLine()!);
 if (numberDayOfWeek < 1 || numberDayOfWeek > 7) // || - или (можно использовать && - и)
 {
     Console.WriteLine("Введен неправильный номер");

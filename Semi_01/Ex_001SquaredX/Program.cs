@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int num = int.Parse(Console.ReadLine()); // Преобразует данные с консоли из 'string' в 'int'
+int num = int.Parse(Console.ReadLine()!); // Преобразует данные с консоли из 'string' в 'int'
 // Первый способ - математический:
 int num2 = num * num;
 Console.WriteLine($"Первый способ num^2 -> {num2}");
