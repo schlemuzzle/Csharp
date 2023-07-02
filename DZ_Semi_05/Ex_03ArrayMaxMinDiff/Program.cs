@@ -1,32 +1,34 @@
 ﻿Console.Clear();
 
-int[] array = GetRandomArray(6, 0, 21);
+double[] array = GetRandomArray(6, 2, 4);
 Console.WriteLine(String.Join(", ", array));
-Console.WriteLine($"Разница минимального и максимального элементов массива: {MaxMinDiff(array)}");
+Console.WriteLine($"Разница минимального и максимального элементов массива: {MaxMinDiff(array):f2}");
 
-int[] GetRandomArray(int size, int minValue, int maxValue)
+double[] GetRandomArray(int size, int minValue, int maxValue)
 {
-    int[] result = new int[size];
+    double[] result = new double[size];
     for (int i = 0; i < size; i++)
     {
-        result[i] = new Random().Next(minValue, maxValue + 1);
+        result[i] = new Random().NextDouble() * (maxValue - minValue) + minValue;
+        result[i] = Math.Round(result[i], 2);
     }
-    return result;
+    return result;;
 }
 
-int MaxMinDiff(int[] arr)
+double MaxMinDiff(double[] arr)
 {
-    int max = 0;
-    int min = arr[0];
-    int diff = 0;
-    foreach (int item in arr)
+    double max = 0;
+    double min = arr[0];
+    double diff = 0;
+    foreach (double item in arr)
     {
         max = item > max ? item : max;
     }
-    foreach (int item in arr)
+    foreach ( double item in arr)
     {
         min = item < min ? item : min;
     }
     diff = max - min;
     return diff;
 }
+
