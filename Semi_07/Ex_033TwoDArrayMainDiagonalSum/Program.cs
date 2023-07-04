@@ -48,7 +48,8 @@ int MainDiagonalArraySum(int[,] array)
     return result;
 }
 
-int GetSumDiag(int[,] array) // решение преподавателя
+int GetSumDiag(int[,] array) // решение преподавателя (решение намного оптимальнее - если массив 100 х 100 
+                             // количество итерраций будет на порядок меньше)
 {
     int length = array.GetLength(0) < array.GetLength(1) ?
     array.GetLength(0) : array.GetLength(1);
