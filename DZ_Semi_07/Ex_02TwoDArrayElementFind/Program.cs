@@ -11,8 +11,6 @@ string[] sides = Console.ReadLine()!.Split(' ', StringSplitOptions.RemoveEmptyEn
 int row = int.Parse(sides[0]);
 int column = int.Parse(sides[1]);
 
-int res = 0;//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 if(row > Array.GetLength(0) || column > Array.GetLength(1))
 {
     WriteLine($"Элемента с индексом [{row}, {column}] нет в данном массиве");

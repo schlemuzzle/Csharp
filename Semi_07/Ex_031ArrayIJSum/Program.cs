@@ -30,7 +30,7 @@ void PrintArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++) // GetLenght(0) - кол-во столбцов
         {
-            Write($"{array[i,j]} ");
+            Write($"{array[i, j]} ");
         }
         WriteLine();
     }
