@@ -24,7 +24,6 @@ for (int i = 0; i < count; i++)
     }
 }
 
-
 int z = 1;
 void FindWords(string alphabet, char[] word, int length = 0)
 {
